@@ -1,30 +1,7 @@
-## Colección de componentes frontend
+shadcn/ui <img align="left" alt="Node" width="30px" style="padding-right:0px;" src="https://i.imgur.com/EEYpOeh.png" /> → [https://ui.shadcn.com/](https://ui.shadcn.com/)
 
-<div align="center">
-  <a href="https://ui.shadcn.com/">
-    shadcn/ui
-    <img alt="Node" width="30px" style="display:block; margin:0 auto;" src="https://i.imgur.com/EEYpOeh.png" />
-  </a>
-</div>
+uiverse <img align="left" alt="Node" width="60px" style="padding-right:0px; padding-top:5px;" src="https://uiverse.io/assets/logo-png-BXFOQKfc.png" /> → [https://uiverse.io/](https://uiverse.io/)
 
-<div align="center">
-  <a href="https://uiverse.io/">
-    uiverse
-    <img alt="Node" width="60px" style="display:block; margin:0 auto;" src="https://uiverse.io/assets/logo-png-BXFOQKfc.png" />
-  </a>
-</div>
+magic ui <img align="left" alt="Node" width="30px" style="padding-right:0px;" src="https://magicui.design/icon.png" /> → [https://magicui.design/](https://magicui.design/)
 
-<div align="center">
-  <a href="https://magicui.design/">
-    magic ui
-    <img alt="Node" width="30px" style="display:block; margin:0 auto;" src="https://magicui.design/icon.png" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.easyui.pro/">
-    easy ui
-    <img alt="Node" width="30px" style="display:block; margin:0 auto;" src="https://pub-0cd6f9d4131f4f79ac40219248ae64db.r2.dev/logo.svg" />
-  </a>
-</div>
-
+easy ui <img align="left" alt="Node" width="30px" style="padding-right:0px;" src="https://pub-0cd6f9d4131f4f79ac40219248ae64db.r2.dev/logo.svg" /> → [https://www.easyui.pro/](https://www.easyui.pro/)
